@@ -1,4 +1,4 @@
-## Proptech Analysis in San Francisco
+## Proptech Analysis in San Francisco (2010 -2016 data)
 
 Proptech, the integration of technology into the real estate market, represents an innovative domain within the fintech industry. In this project, we'll assume the role of an analyst at a proptech company aiming to revolutionize the real estate market in San Francisco. Our company aims to provide an instant, one-click service for individuals to purchase properties and then rent them out. By conducting a trial of this service in the San Francisco real estate market, we aim to gauge its popularity and potential for expansion into other markets.
 
